@@ -19,8 +19,10 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 ## 📌 Overview
 
 <br>
-![Screenshot](./mobile-screenshot.png) "Template Screenshot")
-![Screenshot](./screenshot.png) "Template Screenshot")
+
+   
+![Screenshot2](./screenshot.png) "Template Screenshot")   <br>
+![Screenshot1](./mobile-screenshot.png) "Template Screenshot 2")
 
 
 
